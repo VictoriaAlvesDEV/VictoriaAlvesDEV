@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack Python`**
 
-Me chamo Victotia Alves, tenho 26 anos e sou natural de Brasília. Concluí o ensino médio no Cor Jesu, uma graduação em Psicologia e atualmente, a segunda graduação em Desevolvimento WEB.
+Me chamo Victotia Alves, tenho 26 anos e sou natural de Brasília. Concluí o ensino médio no Cor Jesu, uma graduação em Psicologia e atualmente, um curso de Desevolvimento WEB.
     </a> 
     <a href="https://https://github.com/VictoriaAlvesDEV?tab=repositories&sort=stargazers">
         <img 
